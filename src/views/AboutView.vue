@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Projeto foi planejado por Yuri Marcon</h1>
+    <p>Desenvolvido por pexonauta</p>
   </div>
 </template>

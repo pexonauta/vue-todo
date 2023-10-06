@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunktodotify"]=self["webpackChunktodotify"]||[]).push([[589],{6589:function(t,n,u){u.r(n),u.d(n,{default:function(){return d}});var a=u(3396);const e={class:"about"},o=(0,a._)("h1",null,"This is an about page",-1),r=[o];function s(t,n){return(0,a.wg)(),(0,a.iD)("div",e,r)}var i=u(89);const c={},f=(0,i.Z)(c,[["render",s]]);var d=f}}]);
-//# sourceMappingURL=589.318acb0e.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktodotify"]=self["webpackChunktodotify"]||[]).push([[952],{952:function(o,n,t){t.r(n),t.d(n,{default:function(){return d}});var r=t(6252);const e={class:"about"},u=(0,r._)("h1",null,"Projeto foi planejado por Yuri Marcon",-1),a=(0,r._)("p",null,"Desenvolvido por pexonauta",-1),i=[u,a];function c(o,n){return(0,r.wg)(),(0,r.iD)("div",e,i)}var l=t(3744);const s={},f=(0,l.Z)(s,[["render",c]]);var d=f}}]);
+//# sourceMappingURL=952.df81a6a1.js.map
